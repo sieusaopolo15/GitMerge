@@ -1,4 +1,4 @@
-let i = document.getElementById('div1');
+let i = document.getElementById('div2');
 console.log(i);
-let a = document.getElementById('div2');
+let a = document.getElementById('div3');
 console.log(i);
